@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
 Package: board-overostorm
-Architecture: armhf armel
+Architecture: all
 Depends:
  u-boot-am335x,
  linux-overostorm,
