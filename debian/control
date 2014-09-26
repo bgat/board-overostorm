@@ -8,7 +8,7 @@ Standards-Version: 3.9.3
 Package: board-overostorm
 Architecture: all
 Depends:
- u-boot-am335x,
+ u-boot-overostorm,
  linux-overostorm,
  firmware-overostorm,
  ${misc:Depends}
